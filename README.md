@@ -1,5 +1,5 @@
 # studyc
 
 ## Ubuntu
-gcc hello.c
+gcc hello.c\
 ./a.out
