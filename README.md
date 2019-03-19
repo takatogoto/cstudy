@@ -1,4 +1,7 @@
 # studyc
+Just study "C".
+
+# Environment
 
 ## Ubuntu
 gcc hello.c\
